@@ -1,6 +1,6 @@
 ## Hi, there!
 
-I am a young and dedicated scientist with four years of experience in bioinformatics applied to cancer research. My passion is telling stories with data to bring up new relevant findings about tumor development, heterogeneity, and the influence of its microenvironment.
+I am a bioinformatician with six years of experience in cancer research. My passion is telling stories with data to bring up new relevant findings about tumor development, heterogeneity, and the influence of its microenvironment.
 
 #### Background
 - BSc in Pharmacy
