@@ -5,7 +5,7 @@ I am a bioinformatician with six years of experience in cancer research. My pass
 #### Background
 - BSc in Pharmacy
 - MSc in Oncology
-- PhD student in Bioinformatics
+- PhD(c) in Bioinformatics
 
 
 #### Expertise in
